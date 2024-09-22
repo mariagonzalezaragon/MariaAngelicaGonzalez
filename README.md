@@ -1,2 +1,2 @@
-# Task Management System
-TaskMaster is an intuitive task management tool designed to help individuals and teams organize, prioritize, and track their daily tasks and long-term projects. With features like real-time collaboration, customizable workflows, and automated reminders, TaskMaster streamlines productivity and ensures that deadlines are met. Whether you're managing personal to-dos or coordinating team efforts, TaskMaster provides the flexibility and efficiency needed to stay on top of your workload.
+# María González Profile
+Experienced industrial engineer, project manager, scrum master and programmer. Knowledge of Java, C#, Python, SQL, PHP, JavaScript and more.
